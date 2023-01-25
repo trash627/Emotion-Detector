@@ -1,2 +1,2 @@
-# Emotion-Detector
-CV project
+The primary goal of our project will be to track a face, extract or select the key features and then try to determine the emotion being portrayed. We will attempt to apply this over a live video. For key-point detection, we will try to use our own function of corner detection. We will first try to run an existing method of detection and understand the process of how facial key-point detection occurs. Once, we get that running we plan on coming up with additional goals that can be achieved or trying to use a different model to see if that improves the accuracy or the scores for the model.
+Link to website: https://sites.google.com/vt.edu/emotiontrackercv/home?authuser=1
